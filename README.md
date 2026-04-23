@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Connecticut
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `895462` |
 | Location | Connecticut |
 | Category | Food and Drink |
-| Full dataset size | 389 records |
-| Free sample size | 38 records (9.77%) |
-| Last export | 2026-04-16T22:42:24.674871+00:00 |
+| Full dataset size | 443 records |
+| Free sample size | 44 records (9.93%) |
+| Last export | 2026-04-23T17:20:20.827632+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-895462/releases/download/sample-latest/beamstation_895462_food_and_drink-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
